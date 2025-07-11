@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Zack 👋
 
 I'm a passionate **Software Engineer** who loves to craft elegant solutions using **JavaScript**. Whether it's building dynamic web experiences or optimizing code for performance, I enjoy tackling challenging problems and learning new technologies along the way.
