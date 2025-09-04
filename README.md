@@ -11,6 +11,16 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
 ## 🎮 Beyond the Code
 
 When I'm not coding, you can find me:
@@ -22,8 +32,6 @@ When I'm not coding, you can find me:
 ## 🌱 Always Growing
 
 I'm always on the lookout for new projects and collaborations. If you share similar interests or want to connect, feel free to reach out!
-
-<!-- Optionally, add social links here if you want -->
 
 ---
 
