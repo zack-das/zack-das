@@ -21,10 +21,9 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ---
 
-## 🎮 Beyond the Code
+##  Beyond the Code
 
 When I'm not coding, you can find me:
-- Immersed in intense shooting games—always chasing that next win and perfecting my aim!
 - Creating artwork and exploring new ways to express creativity outside the digital world.
 
 ---
