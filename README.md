@@ -7,8 +7,6 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript (ES6+)
-- **Interests:** Front-end development, interactive UIs, performance tuning
-
 ---
 
  <!--📊 GitHub Stats
