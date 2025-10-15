@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ## 🚀 Tech Stack
 
-- **Languages:** JavaScript (ES6+)
+- **Languages:** JavaScript (ES6+) React, Python, Tailwind css.
 ---
 
  <!--📊 GitHub Stats
