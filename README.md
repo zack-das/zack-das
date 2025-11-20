@@ -23,7 +23,9 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-📊 GitHub Stats
+
+
+##📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zack-das&show_icons=true&theme=radical)
 
