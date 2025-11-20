@@ -5,10 +5,15 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 ---
 
 
-## 🚀 Languages & Technologies
+## 💻 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-das&layout=compact&theme=radical&hide_border=true)
----
+**Frontend:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend/Other:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 📊 GitHub Stats
 
