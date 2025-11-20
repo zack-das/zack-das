@@ -4,9 +4,10 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ---
 
-## 🚀 Tech Stack
 
-- **Languages:** JavaScript (ES6+) React, Python, Tailwind css.
+## 🚀 Languages & Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-das&layout=compact&theme=radical&hide_border=true)
 ---
 
 📊 GitHub Stats
@@ -33,5 +34,4 @@ I'm always on the lookout for new projects and collaborations. If you share simi
 ---
 
 > “Code is like art—a blend of logic and creativity.”
->
->[![trophy](https://github-profile-trophy.vercel.app/?username=zack-das&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
