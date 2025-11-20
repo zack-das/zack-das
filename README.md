@@ -33,3 +33,5 @@ I'm always on the lookout for new projects and collaborations. If you share simi
 ---
 
 > “Code is like art—a blend of logic and creativity.”
+>
+> [![trophy](https://github-profile-trophy.vercel.app/?username=zack-das)](https://github.com/ryo-ma/github-profile-trophy)
