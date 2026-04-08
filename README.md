@@ -28,7 +28,7 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zack-das&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack-das)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Beyond the Code
 
