@@ -26,12 +26,9 @@ I'm a passionate **Software Engineer** who loves to craft elegant solutions usin
 
 ##📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zack-das&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=zack-das&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-das&layout=compact&theme=radical)
-
+[![GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  Beyond the Code
